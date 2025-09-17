@@ -1,1 +1,1 @@
-string = '4well7american'
+stin = '4well7american'
